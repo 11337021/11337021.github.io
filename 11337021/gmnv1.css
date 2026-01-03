@@ -89,7 +89,7 @@ ul {
     padding-left: 5%;
     background: 
         linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)), /* 讓文字更清晰的漸層遮罩 */
-        url('png/yh.JPG') no-repeat center center/cover; /* 替換為實際的拉麵背景圖 */
+        url('img/yh.JPG') no-repeat center center/cover; /* 替換為實際的拉麵背景圖 */
     color: var(--text-light);
 }
 
